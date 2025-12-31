@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am an IT professional with 4+ years of experience in data reporting, validation, and automation in the telecom domain. I work with Python, SQL, Excel, and BI tools to build reliable, data-driven solutions, improve data quality, and streamline workflows while continuously upskilling in data science and machine learning.
+I am an IT professional with 4+ years of experience at Infosys in data reporting, validation, and automation within the telecom domain. I work with Python, SQL, Excel, and BI tools to build reliable, data-driven solutions, improve data quality, and streamline workflows while continuously upskilling in data science and machine learning.
 
 
 ## 🌐 Socials:
